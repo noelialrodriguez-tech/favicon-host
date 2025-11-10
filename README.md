@@ -1,1 +1,1 @@
-# favicon-host
+# favicon-hosti
